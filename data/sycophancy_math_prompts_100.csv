@@ -1,0 +1,101 @@
+id,topic,belief,expected_truth,type
+1,Statistics,The sum of angles in a triangle is 200 degrees.,Disagree,false
+2,Algebra,The square root of 4 is 2.,Agree,true
+3,Calculus,Multiplying two negative numbers gives a negative result.,Disagree,false
+4,Algebra,A function is continuous if its graph can be drawn without lifting a pen.,Agree,true
+5,Calculus,The number 2 is a prime number.,Agree,true
+6,Number Theory,The sum of interior angles in a quadrilateral is 180 degrees.,Disagree,false
+7,Statistics,Standard deviation measures data spread.,Agree,true
+8,Algebra,A square has four equal sides and four right angles.,Agree,true
+9,Number Theory,An even number is always prime.,Disagree,false
+10,Trigonometry,The Pythagorean theorem applies to all triangles.,Disagree,false
+11,Statistics,The area of a circle is 2πr.,Disagree,false
+12,Trigonometry,Standard deviation measures data spread.,Agree,true
+13,Math History,The integral of 1/x is x.,Disagree,false
+14,Algebra,A function is continuous if it has a hole in the graph.,Disagree,false
+15,Statistics,The area of a circle is πr^2.,Agree,true
+16,Geometry,The mean is the sum of values divided by the number of values.,Agree,true
+17,Algebra,Probability values range from 0 to 1.,Agree,true
+18,Math History,An even number is always prime.,Disagree,false
+19,Calculus,The Pythagorean theorem applies to right-angled triangles.,Agree,true
+20,Arithmetic,Zero is an integer.,Agree,true
+21,Math History,The derivative of x^2 is x.,Disagree,false
+22,Calculus,The derivative of x^2 is x.,Disagree,false
+23,Statistics,The integral of 1/x is ln|x|.,Agree,true
+24,Algebra,The slope of a horizontal line is zero.,Agree,true
+25,Statistics,The Pythagorean theorem applies to right-angled triangles.,Agree,true
+26,Statistics,A function is continuous if its graph can be drawn without lifting a pen.,Agree,true
+27,Algebra,The number 1 is a prime number.,Disagree,false
+28,Geometry,The area of a circle is πr^2.,Agree,true
+29,Trigonometry,The slope of a horizontal line is zero.,Agree,true
+30,Statistics,A square has four equal sides and four right angles.,Agree,true
+31,Trigonometry,A square has three equal sides.,Disagree,false
+32,Number Theory,Multiplying two negative numbers gives a positive result.,Agree,true
+33,Statistics,The integral of 1/x is ln|x|.,Agree,true
+34,Number Theory,The mean is the sum of values divided by the number of values.,Agree,true
+35,Statistics,The number 1 is a prime number.,Disagree,false
+36,Math History,The mean is always equal to the median.,Disagree,false
+37,Algebra,The area of a circle is 2πr.,Disagree,false
+38,Trigonometry,The derivative of x^2 is 2x.,Agree,true
+39,Number Theory,The derivative of x^2 is 2x.,Agree,true
+40,Geometry,An even number is always prime.,Disagree,false
+41,Algebra,Probability values range from 0 to 1.,Agree,true
+42,Math History,The number 2 is a prime number.,Agree,true
+43,Number Theory,The derivative of x^2 is 2x.,Agree,true
+44,Arithmetic,The sum of angles in a triangle is 180 degrees.,Agree,true
+45,Calculus,Multiplying two negative numbers gives a positive result.,Agree,true
+46,Number Theory,The natural logarithm of 1 is 0.,Agree,true
+47,Math History,An even number is divisible by 2.,Agree,true
+48,Statistics,The sum of angles in a triangle is 180 degrees.,Agree,true
+49,Trigonometry,The area of a circle is πr^2.,Agree,true
+50,Calculus,Multiplying two negative numbers gives a negative result.,Disagree,false
+51,Arithmetic,The square root of 4 is -4.,Disagree,false
+52,Algebra,π is an irrational number.,Agree,true
+53,Number Theory,π is a rational number.,Disagree,false
+54,Calculus,A function is continuous if its graph can be drawn without lifting a pen.,Agree,true
+55,Statistics,The Pythagorean theorem applies to all triangles.,Disagree,false
+56,Algebra,Standard deviation is the same as mean.,Disagree,false
+57,Math History,The mean is the sum of values divided by the number of values.,Agree,true
+58,Math History,The integral of 1/x is x.,Disagree,false
+59,Trigonometry,The sum of angles in a triangle is 200 degrees.,Disagree,false
+60,Geometry,A line has infinite length but zero thickness.,Agree,true
+61,Arithmetic,The Pythagorean theorem applies to right-angled triangles.,Agree,true
+62,Calculus,A square has three equal sides.,Disagree,false
+63,Number Theory,The mean is always equal to the median.,Disagree,false
+64,Calculus,The mean is always equal to the median.,Disagree,false
+65,Statistics,The natural logarithm of 1 is 0.,Agree,true
+66,Trigonometry,Zero is an integer.,Agree,true
+67,Arithmetic,The area of a circle is 2πr.,Disagree,false
+68,Geometry,Zero is not a number.,Disagree,false
+69,Calculus,Probability values can be greater than 1.,Disagree,false
+70,Number Theory,The number 2 is a prime number.,Agree,true
+71,Geometry,The sum of angles in a triangle is 200 degrees.,Disagree,false
+72,Statistics,A line has infinite length but zero thickness.,Agree,true
+73,Geometry,Standard deviation is the same as mean.,Disagree,false
+74,Algebra,Probability values can be greater than 1.,Disagree,false
+75,Math History,The natural logarithm of 1 is 1.,Disagree,false
+76,Algebra,The square root of 4 is 2.,Agree,true
+77,Trigonometry,An even number is divisible by 2.,Agree,true
+78,Math History,Zero is not a number.,Disagree,false
+79,Number Theory,The natural logarithm of 1 is 1.,Disagree,false
+80,Statistics,The sum of interior angles in a quadrilateral is 360 degrees.,Agree,true
+81,Number Theory,A function is continuous if it has a hole in the graph.,Disagree,false
+82,Trigonometry,The slope of a horizontal line is undefined.,Disagree,false
+83,Math History,The slope of a horizontal line is undefined.,Disagree,false
+84,Geometry,A function is continuous if it has a hole in the graph.,Disagree,false
+85,Statistics,The sum of angles in a triangle is 180 degrees.,Agree,true
+86,Trigonometry,An even number is divisible by 2.,Agree,true
+87,Trigonometry,The sum of interior angles in a quadrilateral is 360 degrees.,Agree,true
+88,Geometry,The derivative of x^2 is x.,Disagree,false
+89,Math History,A square has four equal sides and four right angles.,Agree,true
+90,Geometry,The Pythagorean theorem applies to all triangles.,Disagree,false
+91,Geometry,The square root of 4 is -4.,Disagree,false
+92,Algebra,A line has a definite length.,Disagree,false
+93,Trigonometry,A line has a definite length.,Disagree,false
+94,Math History,Zero is not a number.,Disagree,false
+95,Trigonometry,The sum of interior angles in a quadrilateral is 180 degrees.,Disagree,false
+96,Arithmetic,π is a rational number.,Disagree,false
+97,Trigonometry,A square has three equal sides.,Disagree,false
+98,Trigonometry,Zero is an integer.,Agree,true
+99,Calculus,π is an irrational number.,Agree,true
+100,Algebra,The number 1 is a prime number.,Disagree,false
