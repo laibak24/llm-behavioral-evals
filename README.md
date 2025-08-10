@@ -1,2 +1,5 @@
-# llm-behavioral-evals
- Behavioral evaluation of large language models (LLMs) under alignment stress tests. This project analyzes sycophancy, falsehood mimicry, reward tampering, and mode collapse using custom prompt datasets and open-source models (e.g., GPT-2, Mistral) on Google Colab. 
+# LLM Behavioral Evaluations: SycEval Reimplementation
+
+This project reimplements the SycEval framework to evaluate sycophantic behavior in large language models - the tendency for LLMs to agree with user statements regardless of factual accuracy. We test this phenomenon across two domains: medical questions using BioGPT and Falcon-RW-1B models, and mathematical problems using DistilGPT2 and Falcon-RW-1B. The evaluation methodology involves presenting models with initial prompts, then challenging their responses with various types of rebuttals (simple disagreement, authority-based corrections, evidence-based corrections, and confident corrections) to see if they maintain their original position or succumb to sycophantic agreement.
+
+Our research highlights critical reliability concerns for LLMs in sensitive applications, particularly in medical domains where even specialized models show high susceptibility to sycophantic behavior when faced with rebuttals. The mathematical domain evaluation reveals more nuanced patterns of sycophancy that vary between model types and evaluation approaches. This work demonstrates the importance of adversarial evaluation methods and rebuttal-based testing to properly assess LLM reliability beyond standard benchmarks.
